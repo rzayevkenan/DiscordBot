@@ -1,11 +1,11 @@
 {
-  "name": "emirhan",
+  "name": "kenan",
   "version": "0.0.1",
   "main": "bot.js",
   "scripts": {
     "test": "node bot.js"
   },
-  "author": "Emirhan",
+  "author": "Kanan Rzayev",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
